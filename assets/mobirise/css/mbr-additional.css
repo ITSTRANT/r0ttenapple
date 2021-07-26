@@ -1274,11 +1274,46 @@ a {
 .cid-sDXN3oiUYz .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-spfX3cltpV {
-  background-image: url("../../../assets/images/untitled-artwork-3-2000x1414.jpeg");
+.cid-sEfK3nvW84 {
+  background-color: #2000fd;
 }
-.cid-spfX3cltpV .mbr-section-title {
-  color: #ffffff;
+.cid-sEfK3nvW84 video,
+.cid-sEfK3nvW84 img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.cid-sEfK3nvW84 .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #9b59b6;
+  opacity: 0.4;
+}
+.cid-sEfK3nvW84 .show {
+  visibility: visible;
+}
+.cid-sEfK3nvW84 .hide {
+  visibility: hidden;
+}
+.cid-sEfK3nvW84 .overlay {
+  background: #000000;
+  opacity: 0;
+}
+.cid-sEfK3nvW84 .row {
+  padding-left: 5% !important;
+  padding-right: 5% !important;
 }
 .cid-spfm2bDLrw {
   padding-top: 1rem;
@@ -4848,49 +4883,6 @@ a {
 }
 .cid-7koylwA1tj .hidden {
   display: none;
-}
-.cid-sEfdNwNTWT {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background: linear-gradient(0deg, #cc2952, #232323);
-}
-.cid-sEfdNwNTWT .pulsingButton {
-  position: relative;
-  width: 212px;
-  height: 212px;
-  border: none;
-  box-shadow: 0 0 0 0 #ff7f9f;
-  border-radius: 50%;
-  background-color: #ffffff;
-  background-image: url("../../../assets/images/zen2cool.png");
-  background-size: 60%, cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  cursor: pointer;
-  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-}
-@-webkit-keyframes pulse {
-  to {
-    box-shadow: 0 0 0 100px rgba(232, 76, 61, 0);
-  }
-}
-@-moz-keyframes pulse {
-  to {
-    box-shadow: 0 0 0 100px rgba(232, 76, 61, 0);
-  }
-}
-@-ms-keyframes pulse {
-  to {
-    box-shadow: 0 0 0 100px rgba(232, 76, 61, 0);
-  }
-}
-@keyframes pulse {
-  to {
-    box-shadow: 0 0 0 100px rgba(232, 76, 61, 0);
-  }
 }
 .cid-ssVi9DDxkn {
   padding-top: 1rem;
