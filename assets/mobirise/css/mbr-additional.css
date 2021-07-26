@@ -591,8 +591,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'font';
@@ -4822,11 +4822,6 @@ a {
 }
 .cid-bo0EmPefHj {
   background-color: #000000;
-  padding-top: 150px;
-  padding-bottom: 150px;
-}
-.cid-bo0EmPefHj #goDown {
-  visibility: hidden;
 }
 .cid-bo0EmPefHj video,
 .cid-bo0EmPefHj img {
