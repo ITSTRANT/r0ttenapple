@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "r0tenapple",
-    "currentPage": "filesystem.html",
+    "currentPage": "config.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -101,7 +101,7 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "witsec-white-label": true,
-    "mbrsiteDomain": "asxgqjzayw",
+    "mbrsiteDomain": "ble6k8pzhx",
     "witsec-mailform": false,
     "witsec-mailform-to": "trentkral@gmail.com",
     "witsec-mailform-from": "trentkral@gmail.com",
@@ -120,7 +120,7 @@
     "witsec-mailform-recaptcha-secretkey": "",
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
-    "global_header_custom": "::-webkit-scrollbar{\nwidth: 5px;\nheight: 5px;\n}\n::-webkit-scrollbar-thumb{\nbackground: #9c00ff;\nborder-radius: 30px;\n}\n::-webkit-scrollbar-thumb:hover{\nbackground: #9C00FF;\n}\n::-webkit-scrollbar-track{\nbackground: #F0F0F0;\nborder-radius: 0px;\nbox-shadow: inset 0px 0px 0px 0px #F0F0F0;\n}"
+    "global_header_custom": ""
   },
   "pages": {
     "shortcuts.html": {
